@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "gn5cK19G8qnX0usQvzJ4gjpN9MsR9P4Rw+t/N22vJEcCuU2IO8bhMtw/7VQPClYZjRl5EDx91pAPWqfUeCtG6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vinic\\HotelAdmin\\Hotel_HotelAdmin\\Hotel_HotelAdmin\\Hotel_HotelAdmin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vinic\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.6.0\\amazon.lambda.apigatewayevents.2.6.0.nupkg.sha512",
+    "C:\\Users\\vinic\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\vinic\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\vinic\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\vinic\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
